@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://tlarevo.github.io
+title: Code Rasengan!
+subtitle: Tales of a Gusty Coder.
+author: Tharindu Abeydeera
 simple_search: https://www.google.com/search
 description:
 
